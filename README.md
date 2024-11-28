@@ -1,4 +1,4 @@
-# Flutter Assessment: Meetup App
+# Flutter Assessment: 
 This project is a Flutter-based application designed to display a list of trending meetups with relevant descriptions, images, and a share functionality. The app includes several screens that showcase various meetups and allows users to interact with the content. This README provides an overview of the project's structure, features, and key components.
 
 Project Overview
